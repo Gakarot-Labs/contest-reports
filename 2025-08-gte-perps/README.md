@@ -1,12 +1,3 @@
-# Real Audits by Gakarot
-
-This repository contains my **real submissions** from competitive audit platforms (Sherlock, Code4rena, etc.).  
-Each folder documents one audit with detailed write-ups, PoCs, and mitigation suggestions.  
-
-The goal of this repo is to **showcase actual contest participation and findings** — not just practice repos.
-
----
-
 ## 📊 Submissions Summary
 
 - **Total Findings Submitted:** 7  
