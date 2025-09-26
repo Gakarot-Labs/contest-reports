@@ -8,22 +8,10 @@
 
 ---
 
-## 📂 Structure
-
-- `2025-08-gte-perps/` → Findings from GTE Perps contest.  
-- (Future folders) → Each audit contest or project will be stored in its own folder.
-
-Each folder contains:
-- `README.md` with structured findings (Root cause → Impact → PoC → Mitigation).  
-- PoC test files (if relevant).  
-
----
-
 ## ✅ Why this repo?
 
 - Demonstrates **real-world competitive audit participation**.  
 - Shows ability to find **logic issues, DoS vectors, economic inefficiencies, and misaligned incentives**.  
-- Includes both **valid and rejected-but-still-valid case studies** to highlight bias in judging processes.  
 
 ---
 
