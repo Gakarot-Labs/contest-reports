@@ -9,10 +9,10 @@ Competitive audit findings included in this repository were validated by contest
 
 ## 📊 Overall Summary
 
-- **Total Valid Findings:** 44  
+- **Total Valid Findings:** 45  
 - **Severity Breakdown:**
   - 🟥 High: 11  
-  - 🟧 Medium: 12  
+  - 🟧 Medium: 13  
   - 🟨 Low / Informational: 21  
 
 ---
